@@ -90,8 +90,8 @@ int ucs(int gl,int sr)
 
 int main()
 {
-   //freopen("in.txt","r",stdin);
-   //freopen("out.txt","w",stdout);
+   freopen("in.txt","r",stdin);
+   freopen("out.txt","w",stdout);
    int i,j,k,n,t,goal,dest;
    makelist();
    
