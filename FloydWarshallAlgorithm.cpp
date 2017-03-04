@@ -1,6 +1,6 @@
 //Floyd Warshall Algorithm
 
-sing namespace std;
+using namespace std;
 #include<iostream>
 #include<cstdio>
 
